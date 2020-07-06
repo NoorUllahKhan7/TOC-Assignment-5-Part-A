@@ -1,0 +1,16 @@
+{
+"companyName": "NOOR ULLAH KHAN",
+"productName": "Roll A Ball",
+"productVersion": "0.1",
+"dataUrl": "WebGL.data.unityweb",
+"wasmCodeUrl": "WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#F7F7F7",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
